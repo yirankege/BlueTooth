@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueTooth/BlueTooth/Bluetooth_4_0.m"
+            timestampString = "523249488.661991"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "-peripheral:didDiscoverCharacteristicsForService:error:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Bluetooth_4_0 peripheral:didDiscoverCharacteristicsForService:error:]"
+                  moduleName = "BlueTooth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xjk/Desktop/BlueTooth/BlueTooth/BlueTooth/Bluetooth_4_0.m"
+                  timestampString = "523262000.27576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Bluetooth_4_0 peripheral:didDiscoverCharacteristicsForService:error:]"
+                  moduleName = "BlueTooth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xjk/Desktop/BlueTooth/BlueTooth/BlueTooth/Bluetooth_4_0.m"
+                  timestampString = "523262000.277072"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
